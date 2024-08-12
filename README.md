@@ -14,7 +14,7 @@ A palindrome is a word or phrase that can be read the same way forwards and back
 - **Case Insensitivity**: Convert all characters to the same case (lowercase or uppercase).
 - **Palindrome Detection**: Check if the cleaned string reads the same forwards and backwards.
 
-##Preview
+## Preview
 ![Palindrome](https://github.com/user-attachments/assets/3c858cb4-38b8-45e2-a1e6-09a1ccd709f2)
 
 ## Getting Started
